@@ -1,0 +1,6 @@
+Token value as eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjYxOGE3ZDYzYmZmYzc2MTQ4ZDk3ZjEiLCJ1c2VyRW1haWwiOiJ2ZW51dXBwYXJpNGI0QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjkwMzAzNjQzOTYsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE2ODE0NjQyMTgsImV4cCI6MTcxMzAyMTgxOH0.98QvsR72jxWNQiwv3pWkr6dmqifLBsyKgpAJszU6GP8
+After login message as  Login Successfully
+Home page Landing verification  HOME 
+Total number of items in the Dashboard 3
+Name of item is [object Promise]
+Name of item is [object Promise]

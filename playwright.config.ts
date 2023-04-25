@@ -5,9 +5,12 @@ const config: PlaywrightTestConfig = {
     use:{
         headless: false,
         channel : "chrome",
-        screenshot: "only-on-failure"
+        screenshot: "only-on-failure",
+        trace:"on",
+        video: "off",
     },
     retries: 0,
-    reporter:[["dot"],["html"],["json",{outputFile:"test-result.json"}]]
+    fullyParallel:true,
+    reporter:[["dot"],["html"],["json",{outputFile:"test-result.json"}],["allure-playwright"]]
 }
 export default config;

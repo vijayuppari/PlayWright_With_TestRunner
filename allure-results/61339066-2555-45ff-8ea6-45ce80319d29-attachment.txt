@@ -1,0 +1,6 @@
+Token value as eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjYxOGE3ZDYzYmZmYzc2MTQ4ZDk3ZjEiLCJ1c2VyRW1haWwiOiJ2ZW51dXBwYXJpNGI0QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjkwMzAzNjQzOTYsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE2ODE3MjE2NTYsImV4cCI6MTcxMzI3OTI1Nn0.eOU4if7fevYj-T4mTLtCWhpVnKlpLqTtgfycT8UMS1I
+After login message as  Login Successfully
+Order ID generated in API Utils 643d0939568c3e9fb153fcc8
+Home page Landing verification  HOME 
+Number of rows in table are 7
+Order ID Validated in Create Order test 643d0939568c3e9fb153fcc8

@@ -34,4 +34,14 @@ test.skip("Handle Dropdowns",async({page}) => {
    }
   }); 
 
+  test("Handle Dropdowns Tags @smoke",async({page}) => {
+    await page.goto("https://letcode.in/dropdowns");
+    const fruitsdropdown=  await page.$("//select[@id='fruits']");
+   await fruitsdropdown?.selectOption("2");
+   const fruit =await page.$("//div[@class='notification is-success']");
+   if(fruit){
+     expect(await fruit.textContent()).toContain("Orange");
+   }
+  }); 
+
   

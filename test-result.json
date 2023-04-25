@@ -38,6 +38,10 @@
         {
           "outputFile": "test-result.json"
         }
+      ],
+      [
+        "F:\\Playwright-TS-TestRunner\\node_modules\\allure-playwright\\dist\\index.js",
+        null
       ]
     ],
     "reportSlowTests": {
@@ -67,6 +71,41 @@
           "tests": [
             {
               "timeout": 30000,
+              "annotations": [
+                {
+                  "type": "skip"
+                }
+              ],
+              "expectedStatus": "skipped",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "skipped",
+                  "duration": 0,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2023-04-17T09:40:39.073Z",
+                  "attachments": []
+                }
+              ],
+              "status": "skipped"
+            }
+          ],
+          "id": "bae0302df89cbce8a395-c541270e96787574ca4e",
+          "file": "test/conva.test.ts",
+          "line": 5,
+          "column": 6
+        },
+        {
+          "title": "Capture all Cookies in different way for RahulShetty Application",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
               "annotations": [],
               "expectedStatus": "passed",
               "projectName": "",
@@ -74,21 +113,52 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 10861,
+                  "duration": 5274,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2023-04-12T14:06:40.829Z",
+                  "startTime": "2023-04-17T09:40:39.075Z",
                   "attachments": []
                 }
               ],
               "status": "expected"
             }
           ],
-          "id": "bae0302df89cbce8a395-c541270e96787574ca4e",
+          "id": "bae0302df89cbce8a395-92cae48e82871e7f1eab",
           "file": "test/conva.test.ts",
-          "line": 3,
+          "line": 15,
+          "column": 5
+        },
+        {
+          "title": "Login Rahul Application with using Storage",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 4930,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2023-04-17T09:40:45.143Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bae0302df89cbce8a395-001d9b2f6403fe56386f",
+          "file": "test/conva.test.ts",
+          "line": 27,
           "column": 5
         }
       ]

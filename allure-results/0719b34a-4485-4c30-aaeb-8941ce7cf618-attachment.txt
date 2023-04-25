@@ -1,0 +1,6 @@
+Token value as eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjYxOGE3ZDYzYmZmYzc2MTQ4ZDk3ZjEiLCJ1c2VyRW1haWwiOiJ2ZW51dXBwYXJpNGI0QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjkwMzAzNjQzOTYsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE2ODE0NjY3NjIsImV4cCI6MTcxMzAyNDM2Mn0.3or8YT5p9f9h-bNj_-cXPdid-PMdd1cyNHnTh9iC9fc
+After login message as  Login Successfully
+Home page Landing verification  HOME 
+Total number of items in the Dashboard 3
+Navigated to My Cart page successfully
+Landed in Payment Method page successfully

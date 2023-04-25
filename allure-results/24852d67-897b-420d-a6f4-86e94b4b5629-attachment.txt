@@ -1,0 +1,5 @@
+Token value as eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjYxOGE3ZDYzYmZmYzc2MTQ4ZDk3ZjEiLCJ1c2VyRW1haWwiOiJ2ZW51dXBwYXJpNGI0QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjkwMzAzNjQzOTYsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE2ODE0NjkzMDEsImV4cCI6MTcxMzAyNjkwMX0.mRotPIIsqt2m_vjnn5mlg4MYhzQPrhPsroKH7vFN2f4
+After login message as  Login Successfully
+Order ID created using API Call 64392f75568c3e9fb1517a6d
+Home page Landing verification  HOME 
+Number of rows in table are Locator@tbody tr
